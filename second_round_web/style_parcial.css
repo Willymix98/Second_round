@@ -1,0 +1,55 @@
+
+body{ background-color: rgb(255, 255, 255) ;max-height: 100%; max-width: 100% ; font-size: x-large;margin-top:0cm;margin-left: 0px; margin-right: 0px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+header{background-color: rgb(142, 210, 255);font-size: 70%; position:relative; text-align: left;;padding-left: 15%;padding-right: 15%; height: 160px ; max-width: 100%;top: 0cm; left: 0px;color: rgb(0, 0, 0);font-family: 'Pacifico', cursive; align-items: center; display: flex; justify-content: space-between;} 
+
+#titulo_1{ font-family: 'Fredoka One', cursive;}
+
+#titulo_1 a{   color: black; text-decoration: none ;}
+
+#redes{ width: 200px; height: 10px;margin: 5%; border-radius: 35px; display: flex;align-items: center;justify-content: space-between;}
+
+#redes img{ width:  60px; height: 60px; border-radius: 30px; background-color:rgb(142, 210, 255) ;}
+
+#redes img:hover{ background-color: black;}
+
+#opciones{background-color: rgb(142, 210, 255); margin-left: 0px; position: relative; font-size: small; max-width: 100%; display: block; left: auto ;padding: 30px;height: 80px;font-size: medium;text-align: center;}
+
+#opciones a{ text-decoration: none; color: black;} 
+
+#opciones a:hover{ color: darkgoldenrod;  }
+
+#productos_NUEVOS{ max-width:80%; margin-top: 0px;display: flex;justify-content: space-around;flex-wrap: wrap;margin-left: 10%;margin-right: 10%;}
+
+.prendas{ font-size: 44px; }
+
+img{width: 350px;height: 320px ; background-color: rgb(0, 0, 0);padding: 10px;; box-sizing: border-box;-moz-box-sizing: border-box; -webkit-box-sizing: border-box; border-radius: 15px;}
+
+.producto{color: white; background-color: black; padding: 20px; width: 310px;height: 60px;text-align: center;margin-bottom:-80px ;font-size: 30px;}
+
+.precio{color: white; background-color: black; padding: 20px; width: 310px;height: 60px;text-align: center; margin-top: -20px;font-size: 50PX;font-weight: bold;font-variant-position: sub  ;}
+
+.descripcion{color: white; background-color: black; padding: 20px; width: 310px;height: 55px;text-align: center;margin-bottom:-50px ;font-size: 15px;}
+
+
+
+
+body{ background-color: black; color: rgb(255, 238, 0);}
+
+p{color: rgb(255, 238, 0)!important ;text-align: center; }
+
+img{ filter: blur(5px); width: 300px; height: 300px; justify-content: center;}
+
+img:hover{ filter: blur(0px); }
+
+#opciones a{color: rgb(255, 238, 0);; }
+
+#titulo_1 a{color: rgb(255, 238, 0);; }
+
+header{ background-color: black;}
+
+#opciones{ background-color: black;}
+
+#redes img{ background-color: black; }
+
+#redes img:hover{ background-color:orange;}
